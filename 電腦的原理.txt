@@ -3,7 +3,7 @@
 
 第 1 步：實現計算功能
 
-引入 PC、register file 和 ALU。
+引入 PC、register file、ALU、系统总线、I/O 桥、内存总线和内存。
 
 第 2 步：實現下行上行
 
