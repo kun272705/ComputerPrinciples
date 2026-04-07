@@ -5,7 +5,7 @@
 
 引入 PC、register file、ALU、bus 和 main memory。
 
-第 2 步：實現下行上行
+第 2 步：實現下行和上行
 
 引入 CPU 指令。
 引入 CPU 中斷、中斷向量表和中斷處理器。
